@@ -1,7 +1,7 @@
 ### Olá mundo! Eu sou o Wanderson  😉👋
 
 - 🔭 Aprendendo a programar e estou realmente amando essa nova jornada em minha vida.
-- 🌱 Estudando Front-End por conta própria.
+- 🌱 Estudando Front-End e Python por conta própria.
 - 👯 Gosto de mais de compartilhar ideias e principalmente aprender com os outros
 - 😊 Aqueles que quiserem me indicar ou ensinar algo por favor sintam-se a vontade
 <div align="center">
